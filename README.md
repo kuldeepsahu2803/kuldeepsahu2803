@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kuldeepsahu2803
+# 👋 Hi, I’m Kuldeep Sahu
 
 ## 👀 I’m interested in
 - Exploring new technologies
