@@ -52,7 +52,7 @@
 ## 📫 Connect With Me
 - **Email:** kuldeepsahu0304@gmail.com  
 - **LinkedIn:** [Kuldeep Sahu](https://www.linkedin.com/in/kuldeep-sahu-84455a279)  
-- **GitHub:** [github.com/YourUsername](https://github.com/kuldeepsahu2803)  
+- **GitHub:** [github.com](https://github.com/kuldeepsahu2803)  
 
 ---
 
